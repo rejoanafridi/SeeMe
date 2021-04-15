@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673622113254",
+    "project_id": "seeyou-a9017",
+    "storage_bucket": "seeyou-a9017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673622113254:android:effe75276b47847c0d3427",
+        "android_client_info": {
+          "package_name": "com.example.seeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673622113254-grsvn35bdcqrb5puqjian1fe0n5fpcak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujxa7we1e6ywyqOlKmyQnwjotBEFefTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673622113254-grsvn35bdcqrb5puqjian1fe0n5fpcak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
